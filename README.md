@@ -2,7 +2,7 @@
 
 ## Steps to follow
 
-1. Download the intializer code from the https://start.spring.io website.
+1. Download the initializer code from the https://start.spring.io website.
 2. Write a class and mark it as a @RestController
 3. Write methods and annotate with @RequestMapping
 
